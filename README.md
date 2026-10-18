@@ -1,5 +1,7 @@
 # Cadastro de Produtos
 
+projeto de aprendizado.
+
 Sistema de cadastro de produtos com interface gráfica, feito em Python.
 
 Tecnologias: Python, PyQt5, Qt Designer (interface), MySQL (WampServer)
